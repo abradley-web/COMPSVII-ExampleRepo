@@ -7,4 +7,3 @@ This is an example repository to practice your git and GitHub skill on. To get s
 ```bash
 git clone YOUR_URL_HERE
 ```
-Hello
